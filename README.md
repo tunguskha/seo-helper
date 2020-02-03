@@ -19,6 +19,10 @@ That's it.
 
 #### Example
 
-![Preview](https://raw.githubusercontent.com/tunguskha/seo-helper/master/imgs/error-console.jpg)
+<p align="center">
+  <img width="646" height="auto" src="imgs/error-console.jpg">
+</p>
 
-![Preview](https://raw.githubusercontent.com/tunguskha/seo-helper/master/imgs/success-console.jpg)
+<p align="center">
+  <img width="646" height="auto" src="imgs/success-console.jpg">
+</p>
