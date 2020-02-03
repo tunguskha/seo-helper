@@ -19,6 +19,6 @@ That's it.
 
 #### Example
 
-![Preview](https://raw.githubusercontent.com/tunguskha/seo-checker/master/imgs/error-console.jpg)
+![Preview](https://raw.githubusercontent.com/tunguskha/seo-helper/master/imgs/error-console.jpg)
 
-![Preview](https://raw.githubusercontent.com/tunguskha/seo-checker/master/imgs/success-console.jpg)
+![Preview](https://raw.githubusercontent.com/tunguskha/seo-helper/master/imgs/success-console.jpg)
