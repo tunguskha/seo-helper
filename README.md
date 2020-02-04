@@ -8,11 +8,23 @@ That's it.
 
 ---
 
-
+## Installation
 ### CDN
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/tunguskha/seo-helper@latest/seo-helper.min.js"></script>
+```
+
+### npm
+
+```cli
+npm i -D seo-helper
+```
+
+Import
+
+```js
+SEOhelper()
 ```
 
 ---
