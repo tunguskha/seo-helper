@@ -1,6 +1,6 @@
 {
     "name": "seo-helper",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "A little script that checks if your SEO is good.",
     "main": "index.js",
     "scripts": {
