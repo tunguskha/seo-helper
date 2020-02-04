@@ -9,13 +9,14 @@ That's it.
 ---
 
 ## Installation
-### CDN
+
+### Via CDN
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/tunguskha/seo-helper@latest/seo-helper.min.js"></script>
 ```
 
-### npm
+### Via npm
 
 ```cli
 npm i -D seo-helper
@@ -24,7 +25,9 @@ npm i -D seo-helper
 Import
 
 ```js
-SEOhelper()
+import { SEOhelper } from 'seo-helper';
+
+SEOhelper() 
 ```
 
 ---
