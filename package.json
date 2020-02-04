@@ -1,0 +1,24 @@
+{
+    "name": "seo-helper",
+    "version": "1.0.0",
+    "description": "A little script that checks if your SEO is good.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tunguskha/seo-helper.git"
+    },
+    "keywords": [
+        "seo",
+        "helper",
+        "js"
+    ],
+    "author": "Fabien \"tungu\" DUTAUD",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tunguskha/seo-helper/issues"
+    },
+    "homepage": "https://github.com/tunguskha/seo-helper#readme"
+}
