@@ -1,4 +1,5 @@
 # SEO helper
+[![Known Vulnerabilities](https://snyk.io/test/npm/seo-helper/1.0.2/badge.svg)](https://snyk.io/test/npm/seo-helper/1.0.2)
 
 A little script that checks if your SEO is good.
 
