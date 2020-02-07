@@ -3,7 +3,7 @@
 
 A little script that checks if your SEO is good.
 
-It checks if the title, the description and the images are good.
+It checks if title, description, heading and images are good.
 
 That's it.
 
