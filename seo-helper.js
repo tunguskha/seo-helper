@@ -1,3 +1,8 @@
+/*!
+ * seo-helper.js
+ * v1.0.3
+ * <contact@tungu.me> (https://tungu.me)
+ */
 const colorLogDanger = "background:#FF2C30;color:white;margin:10px 0;padding:15px;border-radius:4px"
 const colorLogWarning = "background:#F46F52;color:white;margin:10px 0;padding:15px;border-radius:4px"
 const colorLogSuccess = "background:#68DB57;color:#070707;margin:10px 0;padding:15px;border-radius:4px;font-weight:bolder"
