@@ -23,6 +23,14 @@ function SEOhelper() {
         var descriptionPass = "ok"
 
 
+    // Heading
+    const heading = document.querySelectorAll("h1")
+    if (heading.length > 1)
+        console.log(`%cYou've got ${heading.length} headers, you only need one.`, colorLogWarning)
+    else
+        var headingPass = "ok"
+
+
     // Imgs
     const imgPass = []
     document.querySelectorAll("img").forEach(function (el) {
