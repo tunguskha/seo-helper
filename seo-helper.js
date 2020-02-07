@@ -21,6 +21,13 @@ else
     var descriptionPass = "ok"
 
 
+// Heading
+const heading = document.querySelectorAll("h1")
+if (heading.length > 1)
+    console.log(`%cYou've got ${heading.length} headers, you only need one.`, colorLogWarning)
+else
+    var headingPass = "ok"
+
 // Imgs
 const imgPass = []
 document.querySelectorAll("img").forEach(function (el) {
@@ -37,5 +44,5 @@ document.querySelectorAll("img").forEach(function (el) {
 
 
 // Sounds good
-if (titlePass === "ok" && descriptionPass === "ok" && !imgPass.includes("No Alt"))
+if (titlePass === "ok" && descriptionPass === "ok" && headingPass === "ok" && !imgPass.includes("No Alt"))
     console.log('%cSounds good, nice job!', colorLogSuccess)
